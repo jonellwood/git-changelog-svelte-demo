@@ -4,7 +4,7 @@ A modern, responsive changelog renderer built with SvelteKit. This template demo
 
 ## Demo
 
-🌐 **[Live Demo](https://svelte.jonellwood.dev){:target="_blank"}** - See it in action!
+🌐 **[Live Demo](https://svelte.jonellwood.dev)** - See it in action!
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/49bbde6d-4b1f-4967-b5d9-2c01bf5d0d66/deploy-status)](https://app.netlify.com/projects/svelte-changelog-demo/deploys)
 
