@@ -2,6 +2,12 @@
 
 A modern, responsive changelog renderer built with SvelteKit. This template demonstrates how to display changelog data using the `git-changelog-manager` package with a beautiful, Apple-inspired design.
 
+## Demo
+
+🌐 **[Live Demo](https://svelte.jonellwood.dev)** - See it in action!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49bbde6d-4b1f-4967-b5d9-2c01bf5d0d66/deploy-status)](https://app.netlify.com/projects/svelte-changelog-demo/deploys)
+
 ## Features
 
 - 📱 **Responsive Design** - Works on desktop, tablet, and mobile
